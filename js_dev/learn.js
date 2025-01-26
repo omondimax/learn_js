@@ -1,4 +1,4 @@
-let match = "footall";
+
 let games = "team";
 let team  = "barcelona";
 
